@@ -27,7 +27,7 @@ function Home() {
     </div>
     <div>
         <p>Contact</p>
-        <ul><a href="www.linkedin.com/in/andymclean95">LinkedIn</a></ul>
+        <ul><a href="https://www.linkedin.com/in/andymclean95/">LinkedIn</a></ul>
         <ul><a href="https://github.com/amclean0395">GitHub</a></ul>
         <ul><a href="mailto: andrew.mclean.5895@gmail.com">Email</a></ul>
     </div>

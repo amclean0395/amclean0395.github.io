@@ -8,8 +8,8 @@ function NavBar() {
             <Link className="link" to="/"><button>Andrew McLean</button></Link>
             <Link className="link" to="/projects"><button>Projects</button></Link>
             <Link className="link" to="/resume"><button>Resume</button></Link>
-            <Link className="link" to="/about"><button>Experience</button></Link>
-            <Link className="link" to="/about"><button>Education</button></Link>
+            <Link className="link" to="/experience"><button>Experience</button></Link>
+            <Link className="link" to="/education"><button>Education</button></Link>
             <a href="https://medium.com/@andrew.mclean.5895">Personal Blog</a>
         </div>     
   )

@@ -1,7 +1,7 @@
 import React from "react";
 
 
-function Experience() {
+function Projects() {
   return (
     <>
     <div>
@@ -10,4 +10,4 @@ function Experience() {
   );
 }
 
-export default Experience;
+export default Projects;
