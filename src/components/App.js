@@ -5,7 +5,6 @@ import Experience from "./Experience";
 import Home from "./Home";
 import NavBar from "./NavBar";
 import Projects from "./Projects";
-import Resume from "./Resume";
 
 
 function App() {
@@ -18,10 +17,6 @@ function App() {
 
             <Route path="/projects">
               <Projects />
-            </Route> 
-
-            <Route path="/resume">
-              <Resume />
             </Route> 
 
             <Route path="/experience">
