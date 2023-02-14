@@ -15,7 +15,7 @@ function NavBar() {
             <li><Link style={{textDecoration:"none", fontSize:"18px"}} to="/resume"><button>Resume</button></Link></li>
             <li><Link style={{textDecoration:"none", fontSize:"18px"}} to="/experience">Experience</Link></li>
             <li><Link style={{textDecoration:"none", fontSize:"18px"}} to="/education">Education</Link></li>
-            <li><a href="https://medium.com/@andrew.mclean.5895">Personal Blog</a></li>
+            <li><a href="https://medium.com/@andrew.mclean.5895">My Blog</a></li>
           </ul>
         </div>
       </div>  
