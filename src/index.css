@@ -14,13 +14,14 @@ span {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  width: 80%;
 }
 
 .containerProjects{
   display:flex;
-  text-align: center;
   margin-left: auto;
   margin-right: auto;
+  height: 50px;
 }
 
 img{
@@ -46,5 +47,68 @@ img{
   border-bottom:  solid lightgray 1px
 }
 
+.columnLED{
+  float: left;
+  width: 50%;
+  padding-left: 10%;
+  padding-right: 5%;
+  padding-bottom: 10px;
+}
+
+.columnPL{
+  float: left;
+  width: 50%;
+  padding-left: 10%;
+  padding-right: 2%;
+}
+
+.columnPR{
+  display: grid;
+  float: right;
+  width: 50%;
+  height: 100%;
+  max-height: 400px;
+  height:350px;
+  min-height: 240px;
+  padding-right: 10%;
+  padding-left: 2%;
+
+}
+
+.columnRED{
+  float: right;
+  width: 50%;
+  padding-top: 80px;
+  padding-right: 10%;
+  padding-left: 2%;
+}
+.columnRED2{
+  float: right;
+  width: 50%;
+  padding-top: 70px;
+  padding-left: 2%;
+  padding-right: 10%;
+}
 
 
+
+.columnLEX{
+  float: left;
+  padding-bottom: 10px;
+  padding-left: 15%;
+}
+
+.row{
+  height:130px
+}
+
+.columnREX{
+  float:left;
+  padding-left: 75px;
+  
+}
+
+.columnREX2{
+  float: right; 
+  padding-right: 15%;
+}
