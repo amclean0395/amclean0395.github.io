@@ -17,7 +17,7 @@ span {
 }
 
 .containerProjects{
-  display:inline-flex;
+  display:flex;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -31,7 +31,6 @@ img{
 .aboutHeader{
   background-color: rgb(244, 245, 248);
   border-bottom: solid lightgray 1px;
-  border-top: solid lightgray 1px;
 }
 
 .homeBottom{
@@ -41,6 +40,10 @@ img{
   display: grid;
   grid-template-columns: 2.5fr 1fr;
   background-color: rgb(244, 245, 248);
+}
+
+.navbar{
+  border-bottom:  solid lightgray 1px
 }
 
 
