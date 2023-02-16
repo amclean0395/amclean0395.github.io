@@ -20,7 +20,7 @@ function Projects() {
           </div>
 
           <div style={{gridRow:"2"}}>
-            <p style={{fontSize:"17px"}}>Fan resource equipped with setlists, album information, reviews, 
+            <p style={{fontSize:"16px"}}>Fan resource equipped with setlists, album information, reviews, 
             recent performance footage, and lyrics. Enables users to track their favorite concerts, 
             live songs, attended shows, and reviews. The administrator has the power to create new albums/concerts,
             associate respective songs, and remove any review. For this application, I used the following:
@@ -87,7 +87,7 @@ function Projects() {
           </div>
 
           <div style={{gridRow:"2"}}>
-            <p style={{fontSize:"17px"}}>
+            <p style={{fontSize:"16px"}}>
             Website for the consolidation of all professional information: projects, 
             resume, education, etc. For this application, I used the following:
             </p>

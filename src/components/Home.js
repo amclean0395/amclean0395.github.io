@@ -66,8 +66,10 @@ function Home() {
 
             <p style={{fontSize:"17px", paddingLeft: "15%", paddingRight: "20px", paddingTop:"7px"}}>
                 
-                I have had the luxury of working in many different industries which have given me diverse experience that covers: team leadership, operations management, and sales. 
-                I spent the first years of my professional life serving in the United States Army where I learned a great deal about how individual motivation works, my ability as a leader, and what characteristics take a teams performance to the next level.  
+                I recently graduated from Flatiron School's software engineering program where I learned full stack web development.
+                I enjoy developing creative and useful applications, and love expanding my technical knowledge. 
+                I've had the luxury of working in many different industries which have given me diverse experience that covers: team leadership, operations management, and sales. 
+                I spent the first years of my professional life serving in the United States Army where I learned a great deal about individual motivation, my ability as a leader, and what characteristics take a teams performance to the next level.  
                 During my time in the army, I led multiple teams ranging from 4 to 30 soldiers, through complex military training exercises. 
                 After leaving the army, I worked as an associate sales representative where I assisted surgeons, 
                 surgical technologists, and nurses with the use of Globus Medical's products during orthopedic spine procedures. 
