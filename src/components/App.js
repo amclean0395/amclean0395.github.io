@@ -9,7 +9,7 @@ import Projects from "./Projects";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
 
     <NavBar />
       <main>
@@ -33,7 +33,7 @@ function App() {
 
           </Switch>
       </main>
-  </BrowserRouter>
+  </HashRouter>
   );
 }
 
