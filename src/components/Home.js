@@ -71,8 +71,8 @@ function Home() {
                 During my time in the army, I led multiple teams ranging from 4 to 30 soldiers, through complex military training exercises. 
                 After the leaving army, I worked as an associate sales representative where I assisted surgeons, 
                 surgical technologists, and nurses with the use of Globus Medical's products during orthopedic spine procedures. 
-                After 2 sales jobs, I decided to pivot into tech to gain a more concrete skillset. 
-                Outside of work I love spending time outdoors connecting with the natural world. 
+                After 2 sales jobs, I decided to pivot into software engineering to focus on a more technical career. 
+                Outside of work, I love spending time outdoors connecting with nature. 
                 I am a passionate Colorado Avalanche and Denver Broncos fan. 
                 Thank you for taking the time to view my portfolio!
             </p>
