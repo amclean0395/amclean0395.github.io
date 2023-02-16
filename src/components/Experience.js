@@ -77,7 +77,7 @@ function Experience() {
 
       <div class="columnREX">
         <h1 style={{fontSize:"20px"}}>Army Football NCAA D1</h1>
-        <h1 style={{fontSize:"20px"}}>Defensive Assitant Coach (Student Coach)</h1>
+        <h1 style={{fontSize:"20px"}}>Defensive Assistant Coach (Student Coach)</h1>
         <h1>West Point, NY</h1>
         <h1>December 2017 - December 2018</h1>
       </div>
