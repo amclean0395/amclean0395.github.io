@@ -8,7 +8,7 @@ function Education() {
     <div class="row">
       
       <div class="columnLED">
-        <img style={{width:"390px"}}src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/FS_wiki.png/800px-FS_wiki.png" alt="error loading media"/>
+        <img style={{width:"350px"}}src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/FS_wiki.png/800px-FS_wiki.png" alt="error loading media"/>
       </div>
 
       <div class="columnRED2">

@@ -14,14 +14,14 @@ function Experience() {
       <div class="columnREX" >
         <h1 style={{fontSize:"20px"}}>Camfil USA</h1>
         <h1 style={{fontSize:"20px"}}>Territory Sales Manager</h1>
-        <h1 style={{fontSize:"18px"}}>Denver, CO</h1>
-        <h1 style={{fontSize:"18px"}}>June 2022 - July 2022</h1>
+        <h1>Denver, CO</h1>
+        <h1>June 2022 - July 2022</h1>
       </div>
 
       <div class="columnREX2">
-        <h1 style={{fontSize:"21px", textAlign:"center", paddingBottom:"7px"}}>Top Skills Practiced</h1>
-        <li style={{fontSize:"18px"}}>Communication</li>
-        <li style={{fontSize:"18px"}}>Relationship Building</li>
+        <h1 style={{fontSize:"20px", textAlign:"center", paddingBottom:"7px"}}>Top Skills Practiced</h1>
+        <li>Communication</li>
+        <li>Relationship Building</li>
       </div>
     </div>
 
@@ -35,14 +35,14 @@ function Experience() {
       <div class="columnREX">
         <h1 style={{fontSize:"20px"}}>Globus Medical</h1>
         <h1 style={{fontSize:"20px"}}>Fast Track Associate Sales Representative</h1>
-        <h1 style={{fontSize:"18px"}}>Baltimore, MD</h1>
-        <h1 style={{fontSize:"18px"}}>January 2021 - December 2021</h1>
+        <h1>Baltimore, MD</h1>
+        <h1>January 2021 - December 2021</h1>
       </div>
 
       <div class="columnREX2">
-        <h1 style={{fontSize:"21px", textAlign:"center", paddingBottom:"7px"}}>Top Skills Practiced</h1>
-        <li style={{fontSize:"18px"}}>Detail Oriented</li>
-        <li style={{fontSize:"18px"}}>Organization</li>
+        <h1 style={{fontSize:"20px", textAlign:"center", paddingBottom:"7px"}}>Top Skills Practiced</h1>
+        <li>Detail Oriented</li>
+        <li>Organization</li>
       </div>
     </div>
 
@@ -56,15 +56,15 @@ function Experience() {
       <div class="columnREX">
         <h1 style={{fontSize:"20px"}}>United States Army</h1>
         <h1 style={{fontSize:"20px"}}>Field Artillery Officer</h1>
-        <h1 style={{fontSize:"18px"}}>Fort Sill, OK / Fort Lewis, WA</h1>
-        <h1 style={{fontSize:"18px"}}>December 2018 - November 2020</h1>
+        <h1 >Fort Sill, OK / Fort Lewis, WA</h1>
+        <h1 >December 2018 - November 2020</h1>
       </div>
 
       <div class="columnREX2">
-        <h1 style={{fontSize:"21px", textAlign:"center", paddingBottom:"7px"}}>Top Skills Practiced</h1>
-        <li style={{fontSize:"18px"}}>Team Leadership</li>
-        <li style={{fontSize:"18px"}}>Training</li>
-        <li style={{fontSize:"18px"}}>Communication</li>
+        <h1 style={{fontSize:"20px", textAlign:"center", paddingBottom:"7px"}}>Top Skills Practiced</h1>
+        <li>Team Leadership</li>
+        <li>Training</li>
+        <li>Communication</li>
       </div>
     </div>
 
@@ -78,14 +78,14 @@ function Experience() {
       <div class="columnREX">
         <h1 style={{fontSize:"20px"}}>Army Football NCAA D1</h1>
         <h1 style={{fontSize:"20px"}}>Defensive Assitant Coach (Student Coach)</h1>
-        <h1 style={{fontSize:"18px"}}>West Point, NY</h1>
-        <h1 style={{fontSize:"18px"}}>December 2017 - December 2018</h1>
+        <h1>West Point, NY</h1>
+        <h1>December 2017 - December 2018</h1>
       </div>
 
       <div class="columnREX2">
         <h1 style={{fontSize:"20px", textAlign:"center", paddingBottom:"7px"}}>Top Skills Practiced</h1>
-        <li style={{fontSize:"18px"}}>Training</li>
-        <li style={{fontSize:"18px"}}>Mentorship</li>
+        <li >Training</li>
+        <li >Mentorship</li>
       </div>
     </div>
 
@@ -102,15 +102,15 @@ function Experience() {
       <div class="columnREX">
         <h1 style={{fontSize:"20px"}}>Army Football NCAA D1</h1>
         <h1 style={{fontSize:"20px"}}>Defensive Line (Player)</h1>
-        <h1 style={{fontSize:"18px"}}>West Point, NY</h1>
-        <h1 style={{fontSize:"18px"}}>August 2014 - December 2017</h1>
+        <h1>West Point, NY</h1>
+        <h1>August 2014 - December 2017</h1>
       </div>
 
       <div class="columnREX2">
         <h1 style={{fontSize:"20px", textAlign:"center", paddingBottom:"7px"}}>Top Skills Practiced</h1>
-        <li style={{fontSize:"18px"}}>Teamwork</li>
-        <li style={{fontSize:"18px"}}>Communication</li>
-        <li style={{fontSize:"18px"}}>Attention To Detail</li>
+        <li>Teamwork</li>
+        <li>Communication</li>
+        <li>Attention To Detail</li>
       </div>
     </div>
    </>

@@ -11,7 +11,7 @@ function Home() {
                 <p style={{fontSize:"40px", textAlign:"center", paddingTop:"10px"}}>Andrew McLean</p>
                 <p style={{fontSize:"30px", textAlign:"center", paddingBottom:"5px"}}>Full-Stack Software Engineer</p>
             </div>
-            <p class="font-sans" style={{fontSize:"25px", textAlign: "center", paddingTop: "10px"}}>Technical Skills</p>
+            <p class="font-sans" style={{fontSize:"22px", textAlign: "center", paddingTop: "10px"}}>Technical Skills</p>
             <div className="container">
 
                 <div>
@@ -65,25 +65,22 @@ function Home() {
             <p style={{fontSize:"25px", paddingLeft: "15%", paddingRight: "20px", paddingTop:"10px"}}>About me</p>
 
             <p style={{fontSize:"17px", paddingLeft: "15%", paddingRight: "20px", paddingTop:"7px"}}>
-                Andrew McLean loves.... 
                 
-                the nine track project is an ode to oft-forgotten vestiges of goose's experience, 
-                both personal and collective. bestowing deserved éclat on the emergent musicians, the album debuted at number one on billboards 
-                top new artist albums chart. the subsequent summer tour was highlighted by a pair of sold out shows at denvers 
-                sculpture park, and fred: the festival, the bands own weekend event at the lockn farm in virginia and most 
-                recently the announce of two nights at the legendary radio city and the band's first arena show at the mohegan sun arena.
-                lately, if you blink you may miss goose fly by. attributing much of their success to a dedicated 
-                and exponentially expanding fan base, steady creative output, and a collective commitment to improvement, 
-                the band is now universally recognized as a premier musical act nationwide. dripfield, gooses forthcoming studio 
-                offering, is a tale of introspection, carefully dissecting the details of the journey...... 
-                
+                I have had the luxury of working in many different industries which have given me diverse experience that covers: team leadership, operations management, and sales. 
+                I spent the first years of my professional life serving in the United States Army where I learned a great deal about how individual motivation works, my ability as a leader, and what characteristics take a teams performance to the next level.  
+                During my time in the army, I led multiple teams ranging from 4 to 30 soldiers, through complex military training exercises. 
+                After the leaving army, I worked as an associate sales representative where I assisted surgeons, 
+                surgical technologists, and nurses with the use of Globus Medical's products during orthopedic spine procedures. 
+                After 2 sales jobs, I decided to pivot into tech to gain a more concrete skillset. 
+                Outside of work I love spending time outdoors connecting with the natural world. 
+                I am a passionate Colorado Avalanche and Denver Broncos fan. 
                 Thank you for taking the time to view my portfolio!
             </p>
         </div>
-        <div style={{paddingTop:"10px", display:"inline", paddingLeft:"30%"}}>
+        <div className="aboutWE" style={{paddingTop:"10px", display:"inline", paddingLeft:"15%"}}>
             <p style={{fontSize:"25px", paddingLeft: "25px", paddingBottom:"7px"}}>Contact</p>
 
-            <div style={{paddingLeft: "33px", paddingBottom: "3px"}}>
+            <div style={{paddingLeft: "26px", paddingBottom: "5px"}}>
                 <a href="mailto: andrew.mclean.5895@gmail.com">
                     <li style={{display:"inline-flex"}}>
                         <img style={{borderRadius: "10px", height:"30px"}} width="30px"  src="https://static.vecteezy.com/system/resources/previews/000/547/340/original/envelope-mail-icon-vector-illustration.jpg" alt="error loading media"></img>
@@ -92,20 +89,20 @@ function Home() {
                 </a>
             </div>
 
-            <div style={{paddingLeft: "33px", paddingBottom: "3px"}}>
-                <a href="https://www.linkedin.com/in/andymclean95/">
-                    <li style={{display:"inline-flex"}}>
-                        <img style={{borderRadius: "10px"}} width="30px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="error loading media"></img>
-                        <ul style={{marginTop:"auto", marginBottom:"auto", marginLeft:"10px", width:"75px"}}>LinkedIn</ul>
-                    </li>
-                </a>
-            </div>
-
-            <div style={{paddingLeft: "33px"}}>
+            <div style={{paddingLeft: "26px", paddingBottom: "5px"}}>
                 <a href="https://github.com/amclean0395">
                     <li style={{display:"inline-flex"}}>
                         <img style={{borderRadius: "10px"}} width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="error loading media"></img>
                         <ul style={{marginTop:"auto", marginBottom:"auto", marginLeft:"10px", width:"75px"}}>GitHub</ul>
+                    </li>
+                </a>
+            </div>
+
+            <div style={{paddingLeft: "26px"}}>
+                <a href="https://www.linkedin.com/in/andymclean95/">
+                    <li style={{display:"inline-flex"}}>
+                        <img style={{borderRadius: "10px"}} width="30px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="error loading media"></img>
+                        <ul style={{marginTop:"auto", marginBottom:"auto", marginLeft:"10px", width:"75px"}}>LinkedIn</ul>
                     </li>
                 </a>
             </div>
