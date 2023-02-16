@@ -14,7 +14,7 @@ function NavBar() {
             <li><Link style={{textDecoration:"none", fontSize:"18px"}} to="/projects">Projects</Link></li>
             <li><Link style={{textDecoration:"none", fontSize:"18px"}} to="/experience">Experience</Link></li>
             <li><Link style={{textDecoration:"none", fontSize:"18px"}} to="/education">Education</Link></li>
-            <li><a style={{fontSize:"18px"}} href="https://amclean0395.github.io/MyResume/" >Resume</a></li>
+            <li><a style={{fontSize:"18px"}} href="http://andrewmclean.dev/Resume/" >Resume</a></li>
             <li><a style={{fontSize:"18px"}} href="https://medium.com/@andrew.mclean.5895">Blog</a></li>
           </ul>
         </div>
