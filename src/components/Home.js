@@ -69,7 +69,7 @@ function Home() {
                 I have had the luxury of working in many different industries which have given me diverse experience that covers: team leadership, operations management, and sales. 
                 I spent the first years of my professional life serving in the United States Army where I learned a great deal about how individual motivation works, my ability as a leader, and what characteristics take a teams performance to the next level.  
                 During my time in the army, I led multiple teams ranging from 4 to 30 soldiers, through complex military training exercises. 
-                After leaving army, I worked as an associate sales representative where I assisted surgeons, 
+                After leaving the army, I worked as an associate sales representative where I assisted surgeons, 
                 surgical technologists, and nurses with the use of Globus Medical's products during orthopedic spine procedures. 
                 After 2 sales jobs, I decided to pivot into software engineering to focus on a more technical career. 
                 Outside of work, I love spending time outdoors connecting with nature. 
