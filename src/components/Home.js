@@ -7,7 +7,7 @@ function Home() {
     <div>
             <div className="aboutHeader">
                 <br></br>
-                <img style={{boxShadow: "0 0 0 8px white, 0 0 0 9px lightgray"}} width="175px" height="175" class="rounded-full" src="https://d1c2gz5q23tkk0.cloudfront.net/assets/users/3127774/ec50b29eaddf279bce3287003d541928-large.jpg?1675801440" alt="error loading media"></img>
+                <img style={{boxShadow: "0 0 0 8px white, 0 0 0 9px lightgray"}} width="175px" height="175" class="rounded-full" src="https://i.imgur.com/xBJhl6E.jpg" alt="error loading media"></img>
                 <p style={{fontSize:"40px", textAlign:"center", paddingTop:"10px"}}>Andrew McLean</p>
                 <p style={{fontSize:"30px", textAlign:"center", paddingBottom:"5px"}}>Full-Stack Software Engineer</p>
             </div>
